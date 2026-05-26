@@ -151,24 +151,6 @@ It helps us:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Mini-OS-UI/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── wallpapers/
-│
-└── README.md
-```
-
----
-
 # 🔥 Core Concepts Used
 
 ## 📌 DOM Manipulation
@@ -339,38 +321,6 @@ The concepts used in this project are useful in:
 * Interactive websites
 * SaaS products
 * Frontend engineering
-
----
-
-# 📸 Project Preview
-
-Add your screenshots here.
-
-```bash
-Screenshot 1
-Screenshot 2
-Screenshot 3
-```
-
----
-
-# ▶️ How to Run the Project
-
-## Step 1
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/mini-os-ui.git
-```
-
-## Step 2
-
-Open the project folder.
-
-## Step 3
-
-Run the `index.html` file in your browser.
 
 ---
 
